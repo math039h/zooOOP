@@ -8,6 +8,7 @@ namespace zooOOP
 {
     class slange
     {
+        // boolean
         private bool farlig;
 
         public void Bite()
